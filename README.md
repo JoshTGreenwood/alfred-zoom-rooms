@@ -1,5 +1,8 @@
 # Alfred Zoom Rooms
 
+## What does it do?
+In my organization, we have many permanent Zoom rooms we jump in and out of throughout the day. We haved named them all so that when I say I'm in "Hamilton", everyone knows I'm talking about the zoom room with id `example-id-123`.  It is cumbersome to remember all of these different ids, so this Alfred workflow allows me to type "zm Hamilton" which opens Zoom, types the corresponding meeting id, and presses join.
+
 ## Install
 
 ```
